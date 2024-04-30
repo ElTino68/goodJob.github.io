@@ -35,9 +35,7 @@ h3{
     color: white;
     text-align: center;
     padding: 10px;
-    border-radius: 10px;
-
-    
+    border-radius: 10px;   
 }
 
 input
@@ -53,7 +51,7 @@ input
         color:rgb(104, 116, 253) ;
         background: #1f03ba;
     }
-    
+
 a{
     all: initial;
     margin: 10px;

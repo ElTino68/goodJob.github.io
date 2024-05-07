@@ -92,3 +92,9 @@ h2:hover{
     border-style: solid;
     cursor: pointer;
 }
+
+select id{
+    font-style: normal;
+    font-size:samall;
+    color:rgb(104, 116, 253);
+}
